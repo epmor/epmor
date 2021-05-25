@@ -1,1 +1,1 @@
-![image](https://github.com/epmor/epmor/blob/master/dino.gif)
+![image](https://github.com/epmor/epmor/blob/main/dino.gif)
