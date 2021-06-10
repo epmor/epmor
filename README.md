@@ -2,6 +2,9 @@
 
 #### I'm a Full-Stack Developer from Wales.
 
+#### Newer projects are migrating to SourceHut
+https://git.sr.ht/~ethanmp
+
 ##### BIO
 
 - 🏢 I'm currently working at **Hoolwa**
